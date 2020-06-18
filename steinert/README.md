@@ -7,11 +7,11 @@
 
 Suggestions for further work (possibly outside the scope of this course):
 
-- [ ] TBD
-
+- [ ] So far so good
 Stylistic comments:
 
-- [ ] TBD
+- [ ] Write in the active voice and in the present tense unless you have a very good reason not to 
+- [ ] Use language tool or grammarly to check the English so it looks more native 
 
 ## Part 2
 
