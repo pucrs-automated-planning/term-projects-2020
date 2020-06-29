@@ -15,6 +15,6 @@ Stylistic comments:
 
 ## Part 2
 
-- [Implementation](<link to github>)
+- [Implementation](https://github.com/mauriciosteinert/nlp_planning)
 - [Final paper](steinert-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2020)
 - [Final presentation slides](steinert-final-presentation-slides.pdf)
