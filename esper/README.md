@@ -17,6 +17,6 @@ Stylistic comments:
 
 ## Part 2
 
-- [Implementation](<link to github>)
+- [Implementation](https://github.com/katherineesper/implementation-pddl)
 - [Final paper](esper-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2020)
 - [Final presentation slides](esper-final-presentation-slides.pdf)
