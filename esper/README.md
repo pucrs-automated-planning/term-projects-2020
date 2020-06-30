@@ -3,7 +3,7 @@
 ## Part 1
 
 - [Short Paper](esper-proposal.pdf)
-- [Presentation Slides](esper-proposal-slides.pdf)
+- [Presentation Slides](esper-presentation.pdf)
 
 Suggestions for further work (possibly outside the scope of this course):
 
