@@ -5,9 +5,9 @@ Repository for Term Project Material in 2020
 
 | Time Slot | Title | Presenter |
 | --------- | ----- | --------- |
-| 10h00    |  TBD       | [Claudio Scheer](/scheer) |
-| 10h15    |  TBD       | [Katherine Esper](/esper) |
-| 10h30    |  TBD       | [Maurício Steinert](/steinert) |
+| 10h00    |  Automated planning for fMRI paradigms design using PDDL  | [Katherine Esper](/esper) |
+| 10h15    |  Finding Parallel Regions with Temporal Planning | [Claudio Scheer](/scheer) |
+| 10h30    |  Learning Action Preconditions from Step-by-step Intructions in Planning Domains | [Maurício Steinert](/steinert) |
 | 10h45    |  TBD       | [TBD](/tbd) |
 | 11h00    |  TBD       | [TBD](/tbd) |
 | 11h15    |  TBD       | [TBD](/tbd) |
