@@ -15,6 +15,6 @@ Stylistic comments:
 
 ## Part 2
 
-- [Implementation](https://github.com/claudioscheer/source-code-compiler-pddl)
+- [Implementation](https://github.com/claudioscheer/parallel-regions-temporal-planning)
 - [Final paper](scheer-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2020)
 - [Final presentation slides](scheer-final-presentation-slides.pdf)
